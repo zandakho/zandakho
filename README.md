@@ -1,4 +1,4 @@
-![Header](https://github.com/zandakho/zandakho/blob/main/assets/Logo.jpg)
+![Header](https://github.com/zandakho/zandakho/blob/main/assets/DLogo.jpg)
 
 ## I`m beginner programmer
 
